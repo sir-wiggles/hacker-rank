@@ -1,0 +1,312 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MockInput	acm-icpc-team.py	/^class MockInput(object):$/;"	c
+MockInput	alternating-characters.py	/^class MockInput(object):$/;"	c
+MockInput	anagram.py	/^class MockInput(object):$/;"	c
+MockInput	and-product.py	/^class MockInput(object):$/;"	c
+MockInput	bear-and-steady-gene.py	/^class MockInput(object):$/;"	c
+MockInput	caesar-cipher.py	/^class MockInput(object):$/;"	c
+MockInput	cavity-map.py	/^class MockInput(object):$/;"	c
+MockInput	chocolate-feast.py	/^class MockInput(object):$/;"	c
+MockInput	cipher.py	/^class MockInput(object):$/;"	c
+MockInput	counter-game.py	/^class MockInput(object):$/;"	c
+MockInput	cut-the-sticks.py	/^class MockInput(object):$/;"	c
+MockInput	encryption.py	/^class MockInput(object):$/;"	c
+MockInput	funny-string.py	/^class MockInput(object):$/;"	c
+MockInput	game-of-thrones.py	/^class MockInput(object):$/;"	c
+MockInput	gem-stones.py	/^class MockInput(object):$/;"	c
+MockInput	library-fine.py	/^class MockInput(object):$/;"	c
+MockInput	lisas-workbook.py	/^class MockInput(object):$/;"	c
+MockInput	lonely-integer.py	/^class MockInput(object):$/;"	c
+MockInput	make-it-anagram.py	/^class MockInput(object):$/;"	c
+MockInput	manasa-and-stones.py	/^class MockInput(object):$/;"	c
+MockInput	maximizing-xor.py	/^class MockInput(object):$/;"	c
+MockInput	modified-kaprekar-numbers.py	/^class MockInput(object):$/;"	c
+MockInput	palindrome-index.py	/^class MockInput(object):$/;"	c
+MockInput	panagrams.py	/^class MockInput(object):$/;"	c
+MockInput	sansa-and-xor.py	/^class MockInput(object):$/;"	c
+MockInput	service-lane.py	/^class MockInput(object):$/;"	c
+MockInput	sherlock-and-squares.py	/^class MockInput(object):$/;"	c
+MockInput	shortest-reach.py	/^class MockInput(object):$/;"	c
+MockInput	string-transmission.py	/^class MockInput(object):$/;"	c
+MockInput	taum-and-bday.py	/^class MockInput(object):$/;"	c
+MockInput	the-grid-search.py	/^class MockInput(object):$/;"	c
+MockInput	the-love-letter-mystery.py	/^class MockInput(object):$/;"	c
+MockInput	the-time-in-words.py	/^class MockInput(object):$/;"	c
+MockInput	two-strings.py	/^class MockInput(object):$/;"	c
+MockInput	xor-sequence.py	/^class MockInput(object):$/;"	c
+MockInput	xoring-ninja.py	/^class MockInput(object):$/;"	c
+__call__	acm-icpc-team.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	alternating-characters.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	anagram.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	and-product.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	bear-and-steady-gene.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	caesar-cipher.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	cavity-map.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	chocolate-feast.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	cipher.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	counter-game.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	cut-the-sticks.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	encryption.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	funny-string.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	game-of-thrones.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	gem-stones.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	library-fine.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	lisas-workbook.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	lonely-integer.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	make-it-anagram.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	manasa-and-stones.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	maximizing-xor.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	modified-kaprekar-numbers.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	palindrome-index.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	panagrams.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	sansa-and-xor.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	service-lane.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	sherlock-and-squares.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	shortest-reach.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	string-transmission.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	taum-and-bday.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	the-grid-search.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	the-love-letter-mystery.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	the-time-in-words.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	two-strings.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	xor-sequence.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__call__	xoring-ninja.py	/^    def __call__(self):$/;"	m	class:MockInput	file:
+__init__	acm-icpc-team.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	alternating-characters.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	anagram.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	and-product.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	bear-and-steady-gene.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	caesar-cipher.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	cavity-map.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	chocolate-feast.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	cipher.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	counter-game.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	cut-the-sticks.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	encryption.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	funny-string.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	game-of-thrones.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	gem-stones.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	library-fine.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	lisas-workbook.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	lonely-integer.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	make-it-anagram.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	manasa-and-stones.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	maximizing-xor.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	modified-kaprekar-numbers.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	palindrome-index.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	panagrams.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	sansa-and-xor.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	service-lane.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	sherlock-and-squares.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	shortest-reach.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	string-transmission.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	taum-and-bday.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	the-grid-search.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	the-love-letter-mystery.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	the-time-in-words.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	two-strings.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	xor-sequence.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+__init__	xoring-ninja.py	/^    def __init__(self, *args):$/;"	m	class:MockInput
+_raw_input	xoring-ninja.py	/^_raw_input = MockInput(input)$/;"	v
+a	manasa-and-stones.py	/^    a = int(raw_input().strip())$/;"	v	class:MockInput
+array	sansa-and-xor.py	/^    array = map(int, raw_input().strip().split())$/;"	v	class:MockInput
+array	xor-sequence.py	/^    array = []$/;"	v
+array	xoring-ninja.py	/^    array = map(int, raw_input().strip().split(" "))$/;"	v	class:MockInput
+b	manasa-and-stones.py	/^    b = int(raw_input().strip())$/;"	v	class:MockInput
+bounds	sherlock-and-squares.py	/^    bounds = map(int, raw_input().strip().split(' '))$/;"	v	class:MockInput
+brows	the-grid-search.py	/^    brows = []$/;"	v
+calc	chocolate-feast.py	/^def calc(wrappers, price):$/;"	f
+can_buy	chocolate-feast.py	/^    can_buy = m\/c$/;"	v
+cases	alternating-characters.py	/^cases = int(raw_input().strip())$/;"	v
+cases	anagram.py	/^cases = int(raw_input().strip())$/;"	v
+cases	and-product.py	/^cases = int(raw_input().strip())$/;"	v
+cases	chocolate-feast.py	/^cases = int(raw_input().strip())$/;"	v
+cases	manasa-and-stones.py	/^cases = raw_input().strip()$/;"	v
+cases	palindrome-index.py	/^cases = int(raw_input().strip())$/;"	v
+cases	sherlock-and-squares.py	/^cases = int(raw_input().strip())$/;"	v
+cases	shortest-reach.py	/^cases = int(raw_input().strip())$/;"	v
+cases	taum-and-bday.py	/^cases = int(raw_input().strip())$/;"	v
+cases	the-grid-search.py	/^cases = int(raw_input().strip('\\n'))$/;"	v
+cases	the-love-letter-mystery.py	/^cases = int(raw_input().strip())$/;"	v
+cases	two-strings.py	/^cases = int(raw_input().strip())$/;"	v
+cases	xoring-ninja.py	/^cases = int(raw_input().strip())$/;"	v
+center_taken	game-of-thrones.py	/^    center_taken = False$/;"	v	class:MockInput
+cipher	cipher.py	/^cipher = raw_input().strip()$/;"	v
+code	acm-icpc-team.py	/^code = [int(raw_input().strip(), 2) for _ in xrange(people)]$/;"	v
+col	encryption.py	/^col = int(math.ceil(sr))$/;"	v
+count	acm-icpc-team.py	/^count = 0$/;"	v
+count	anagram.py	/^    count = 0$/;"	v	class:MockInput
+count	and-product.py	/^    count = 0$/;"	v	class:MockInput
+count	bear-and-steady-gene.py	/^    count = 0$/;"	v
+count	funny-string.py	/^    count = 0$/;"	v	class:MockInput
+count	funny-string.py	/^count = int(raw_input().strip())$/;"	v
+count	lonely-integer.py	/^count = raw_input().strip()$/;"	v
+count	make-it-anagram.py	/^count = 0$/;"	v
+d	modified-kaprekar-numbers.py	/^    d = len(str(n))$/;"	v	class:MockInput
+dec_max	bear-and-steady-gene.py	/^def dec_max(c, g):$/;"	f
+delete	alternating-characters.py	/^    delete = 0$/;"	v	class:MockInput
+diff	make-it-anagram.py	/^    diff = abs(v2 - v1)$/;"	v	class:MockInput
+diff	the-love-letter-mystery.py	/^    diff = 0$/;"	v	class:MockInput
+diffs	library-fine.py	/^diffs = map(lambda x: x[0] - x[1], zip(returned, expected))$/;"	v
+elements	gem-stones.py	/^elements = set()$/;"	v
+encrypted	caesar-cipher.py	/^encrypted = []$/;"	v
+expected	library-fine.py	/^expected = map(int, raw_input().strip().split(' '))$/;"	v
+f1	make-it-anagram.py	/^f1 = collections.Counter([x for x in raw_input().strip()])$/;"	v
+f2	make-it-anagram.py	/^f2 = collections.Counter([x for x in raw_input().strip()])$/;"	v
+fall_off	cipher.py	/^fall_off = None$/;"	v
+final	shortest-reach.py	/^    final = dict(zip(xrange(1, nodes+1), [0] * nodes))$/;"	v	class:MockInput
+find_me	the-grid-search.py	/^    find_me = lrows[0]$/;"	v
+fines	library-fine.py	/^fines = [15, 500, 10000][::-1]$/;"	v
+found	the-grid-search.py	/^                found = lookahead(brows[i+1:], lrows[1:], have)$/;"	v
+found	the-grid-search.py	/^    found = False$/;"	v
+freq	bear-and-steady-gene.py	/^freq = collections.Counter(gene)$/;"	v
+freq	game-of-thrones.py	/^freq = collections.Counter([x for x in line])$/;"	v
+freq_counter	lonely-integer.py	/^freq_counter = {}$/;"	v
+g	bear-and-steady-gene.py	/^        g = gene[j]$/;"	v
+gdc	bear-and-steady-gene.py	/^    gdc = gene_diffs.copy()$/;"	v
+gene	bear-and-steady-gene.py	/^gene = raw_input().strip()$/;"	v
+gene_diffs	bear-and-steady-gene.py	/^gene_diffs = {}$/;"	v
+gene_length	bear-and-steady-gene.py	/^gene_length = int(raw_input().strip())$/;"	v
+get_val	xor-sequence.py	/^def get_val(n):$/;"	f
+graph	shortest-reach.py	/^    graph = {}$/;"	v	class:MockInput
+groups	acm-icpc-team.py	/^groups = {}$/;"	v
+h	the-time-in-words.py	/^h = int(raw_input().strip())$/;"	v
+have	the-grid-search.py	/^            have = row.find(find_me, start)$/;"	v
+hw	the-time-in-words.py	/^    hw = words[h+1 if h < 12 else 1]$/;"	v	class:MockInput
+hw	the-time-in-words.py	/^    hw = words[h]$/;"	v
+hw	the-time-in-words.py	/^    hw = words[h]$/;"	v	class:MockInput
+inc_min	bear-and-steady-gene.py	/^def inc_min(c, g):$/;"	f
+is_palindrome	palindrome-index.py	/^def is_palindrome(s):$/;"	f
+j	bear-and-steady-gene.py	/^    j = i$/;"	v
+l	cut-the-sticks.py	/^    l = sticks - zero_size$/;"	v	class:MockInput
+l	maximizing-xor.py	/^l = int(raw_input().strip())$/;"	v
+left	cut-the-sticks.py	/^left = set()$/;"	v
+length	caesar-cipher.py	/^length = int(raw_input().strip())$/;"	v
+length	funny-string.py	/^    length = len(line)$/;"	v	class:MockInput
+letter_map	panagrams.py	/^letter_map = {}$/;"	v
+line	alternating-characters.py	/^    line = raw_input().strip()$/;"	v	class:MockInput
+line	anagram.py	/^    line = raw_input().strip()$/;"	v	class:MockInput
+line	cavity-map.py	/^    line = line[:x] + 'X' + line[x+1:]$/;"	v	class:MockInput
+line	cavity-map.py	/^    line = rows[y] $/;"	v	class:MockInput
+line	encryption.py	/^line = raw_input().strip()$/;"	v
+line	funny-string.py	/^    line = raw_input().strip()$/;"	v	class:MockInput
+line	game-of-thrones.py	/^line = raw_input().strip()$/;"	v
+line	panagrams.py	/^line = raw_input().strip().lower()$/;"	v
+line	the-love-letter-mystery.py	/^    line = raw_input().strip()$/;"	v	class:MockInput
+line_length	encryption.py	/^line_length = len(line)$/;"	v
+loc	cavity-map.py	/^loc = []$/;"	v
+lookahead	the-grid-search.py	/^def lookahead(bg, lg, col):$/;"	f
+lower	modified-kaprekar-numbers.py	/^lower = int(raw_input().strip())$/;"	v
+lower	sherlock-and-squares.py	/^    lower = int(lower) if int(lower) != lower else int(lower) - 1$/;"	v	class:MockInput
+lower	sherlock-and-squares.py	/^    lower = math.sqrt(lower)$/;"	v	class:MockInput
+lrows	the-grid-search.py	/^    lrows = []$/;"	v
+m	the-time-in-words.py	/^m = int(raw_input().strip())$/;"	v
+mat	encryption.py	/^mat = map(None, *[iter(line)]*col)$/;"	v
+mat	encryption.py	/^mat = zip(*mat)$/;"	v
+max	acm-icpc-team.py	/^max = 0$/;"	v
+max_so_far	maximizing-xor.py	/^max_so_far = 0$/;"	v
+message	caesar-cipher.py	/^message = raw_input().strip()$/;"	v
+min_size	cut-the-sticks.py	/^    min_size = new_min$/;"	v	class:MockInput
+min_so_far	bear-and-steady-gene.py	/^min_so_far = gene_length$/;"	v
+msg	cipher.py	/^msg = [cipher[0]]$/;"	v
+mul	xoring-ninja.py	/^    mul = 2 ** n \/\/ 2$/;"	v	class:MockInput
+n	counter-game.py	/^    n = int(raw_input())-1$/;"	v	class:MockInput
+n	sansa-and-xor.py	/^    n = int(raw_input().strip())$/;"	v	class:MockInput
+n	xoring-ninja.py	/^    n = int(raw_input().strip())$/;"	v	class:MockInput
+numbers	lonely-integer.py	/^numbers = map(int, raw_input().strip().split(" "))$/;"	v
+on	counter-game.py	/^    on = sum(b=='1' for b in bin(n)[2:])$/;"	v	class:MockInput
+page	lisas-workbook.py	/^    page = []$/;"	v	class:MockInput
+page_number	lisas-workbook.py	/^page_number = 1$/;"	v
+previous	alternating-characters.py	/^    previous = line[0]$/;"	v	class:MockInput
+problem_sets	lisas-workbook.py	/^problem_sets = map(int, raw_input().strip().split(" "))$/;"	v
+ptr	cipher.py	/^    ptr = i-k+2$/;"	v	class:MockInput
+queue	shortest-reach.py	/^    queue = collections.deque([[start]])$/;"	v	class:MockInput
+r	maximizing-xor.py	/^r = int(raw_input().strip())$/;"	v
+r	the-love-letter-mystery.py	/^    r = len(line) - 1$/;"	v	class:MockInput
+raw_input	acm-icpc-team.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	alternating-characters.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	anagram.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	and-product.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	bear-and-steady-gene.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	caesar-cipher.py	/^raw_input = MockInput(*input.split())$/;"	v
+raw_input	cavity-map.py	/^raw_input = MockInput(*input.split("\\n"))$/;"	v
+raw_input	chocolate-feast.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	cipher.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	counter-game.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	cut-the-sticks.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	encryption.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	funny-string.py	/^raw_input = MockInput(*input.split("\\n"))$/;"	v
+raw_input	game-of-thrones.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	gem-stones.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	library-fine.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	lisas-workbook.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	lonely-integer.py	/^raw_input = MockInput(*input.split("\\n"))$/;"	v
+raw_input	make-it-anagram.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	manasa-and-stones.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	maximizing-xor.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	modified-kaprekar-numbers.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	palindrome-index.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	panagrams.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	sansa-and-xor.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	service-lane.py	/^    raw_input = MockInput(*input)$/;"	v
+raw_input	sherlock-and-squares.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	shortest-reach.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	taum-and-bday.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	the-grid-search.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	the-love-letter-mystery.py	/^raw_input = MockInput(*input.split('\\n'))$/;"	v
+raw_input	the-time-in-words.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	two-strings.py	/^raw_input = MockInput(input)$/;"	v
+raw_input	xor-sequence.py	/^raw_input = MockInput(input)$/;"	v
+returned	library-fine.py	/^returned = map(int, raw_input().strip().split(' '))$/;"	v
+rock	gem-stones.py	/^    rock = set()$/;"	v	class:MockInput
+rock	gem-stones.py	/^rock = raw_input().strip()$/;"	v
+rocks	gem-stones.py	/^rocks = int(raw_input().strip())$/;"	v
+row	encryption.py	/^row = int(math.floor(sr))$/;"	v
+row_count	cavity-map.py	/^row_count = int(raw_input().strip())$/;"	v
+rows	cavity-map.py	/^rows = [raw_input().strip() for _ in xrange(row_count)]$/;"	v
+rows	encryption.py	/^rows = []$/;"	v
+run	bear-and-steady-gene.py	/^    run = True$/;"	v
+run	service-lane.py	/^def run(raw_input):$/;"	f
+s	manasa-and-stones.py	/^    s = set()$/;"	v	class:MockInput
+s	modified-kaprekar-numbers.py	/^    s = str(n**2)$/;"	v	class:MockInput
+s1	anagram.py	/^    s1 = line[:len(line)\/2]$/;"	v	class:MockInput
+s1	two-strings.py	/^    s1 = collections.Counter([x for x in raw_input().strip()])$/;"	v	class:MockInput
+s1_char_set	anagram.py	/^    s1_char_set = collections.Counter(s1)$/;"	v	class:MockInput
+s1_keys	two-strings.py	/^    s1_keys = set(s1.keys())$/;"	v	class:MockInput
+s2	anagram.py	/^    s2 = line[len(line)\/2:]$/;"	v	class:MockInput
+s2	two-strings.py	/^    s2 = collections.Counter([x for x in raw_input().strip()])$/;"	v	class:MockInput
+s2_char_set	anagram.py	/^    s2_char_set = collections.Counter(s2)$/;"	v	class:MockInput
+s2_keys	two-strings.py	/^    s2_keys = set(s2.keys())$/;"	v	class:MockInput
+shift	caesar-cipher.py	/^shift = int(raw_input().strip())$/;"	v
+sizes	cut-the-sticks.py	/^sizes = map(int, raw_input().strip().split(" "))$/;"	v
+special	lisas-workbook.py	/^special = 0$/;"	v
+sr	encryption.py	/^sr = math.sqrt(line_length)$/;"	v
+stable	bear-and-steady-gene.py	/^stable = gene_length\/4$/;"	v
+start	shortest-reach.py	/^    start = int(raw_input().strip())$/;"	v	class:MockInput
+start	the-grid-search.py	/^                start = have+1$/;"	v
+start	the-grid-search.py	/^        start = 0$/;"	v
+sticks	cut-the-sticks.py	/^sticks = int(raw_input().strip())$/;"	v
+stones	manasa-and-stones.py	/^    stones = int(raw_input().strip())$/;"	v	class:MockInput
+t	the-time-in-words.py	/^    t = '%s %s' % (hw, words[m])$/;"	v	class:MockInput
+t	the-time-in-words.py	/^    t = '%s %s' % (words[m], hw)$/;"	v
+total	library-fine.py	/^total = 0$/;"	v
+upper	modified-kaprekar-numbers.py	/^upper = int(raw_input().strip())$/;"	v
+upper	sherlock-and-squares.py	/^    upper = int(upper)$/;"	v	class:MockInput
+upper	sherlock-and-squares.py	/^    upper = math.sqrt(upper)$/;"	v	class:MockInput
+v1	make-it-anagram.py	/^    v1 = f1.get(s, 0)$/;"	v	class:MockInput
+v2	make-it-anagram.py	/^    v2 = f2.get(s, 0)$/;"	v	class:MockInput
+val	xor-sequence.py	/^    val = reduce(lambda x, y: x^y, array)$/;"	v
+val	xoring-ninja.py	/^    val = array[0] * mul$/;"	v	class:MockInput
+val	xoring-ninja.py	/^    val = val % (10**9 + 7)$/;"	v	class:MockInput
+valid	game-of-thrones.py	/^valid = True$/;"	v
+vals	modified-kaprekar-numbers.py	/^vals = [] $/;"	v
+words	the-time-in-words.py	/^words = {$/;"	v
+wrappers_saved	chocolate-feast.py	/^wrappers_saved = 0$/;"	v
+xor	cipher.py	/^xor = int(cipher[0])$/;"	v
+xor	sansa-and-xor.py	/^    xor = 0$/;"	v	class:MockInput
+zero_size	cut-the-sticks.py	/^zero_size = 0$/;"	v
